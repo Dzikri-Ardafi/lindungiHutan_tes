@@ -1,0 +1,362 @@
+{
+  "makan": [
+    {
+      "id": 1,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 2,
+      "name": "Sedotan besi dan cangkir batok",
+      "ratings": 6,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 3,
+      "name": "Piring sendok gelas",
+      "ratings": 6,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 4,
+      "name": "Mangkok dan cangkir batok",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 5,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 6,
+      "name": "Piring sendok gelas",
+      "ratings": 7,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 7,
+      "name": "Piring sendok gelas",
+      "ratings": 5,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 8,
+      "name": "Piring sendok gelas",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 9,
+      "name": "Piring sendok gelas",
+      "ratings": 7,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 10,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 11,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    }
+  ],
+  "pakaian": [
+    {
+      "id": 12,
+      "name": "Celana Jeans",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 13,
+      "name": "Celana Katun",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 14,
+      "name": "Celana Training",
+      "ratings": 4,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 15,
+      "name": "Baju Putih Polos",
+      "ratings": 7,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 16,
+      "name": "Baju Kaos Hitam",
+      "ratings": 6,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 17,
+      "name": "Baju Voluonter",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 18,
+      "name": "Baju Sutra",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+
+    {
+      "id": 19,
+      "name": "Kemeja Lengan Pendek",
+      "ratings": 5,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 20,
+      "name": "Kaos oblong",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 21,
+      "name": "Kaos Katun",
+      "ratings": 4,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 22,
+      "name": "Baju Kemeja",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 2,
+      "name": "Sedotan besi dan cangkir batok",
+      "ratings": 6,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 3,
+      "name": "Piring sendok gelas",
+      "ratings": 6,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 4,
+      "name": "Mangkok dan cangkir batok",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 5,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 6,
+      "name": "Piring sendok gelas",
+      "ratings": 7,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 7,
+      "name": "Piring sendok gelas",
+      "ratings": 5,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 8,
+      "name": "Piring sendok gelas",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 9,
+      "name": "Piring sendok gelas",
+      "ratings": 7,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 10,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 11,
+      "name": "Piring sendok gelas",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Tempat makan dan minum",
+      "link": "https://th.bing.com/th/id/OIP.3QfmIuWzlpwREuzgbTJtgAHaE9?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 12,
+      "name": "Celana Jeans",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 13,
+      "name": "Celana Katun",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 14,
+      "name": "Celana Training",
+      "ratings": 4,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 15,
+      "name": "Baju Putih Polos",
+      "ratings": 7,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 16,
+      "name": "Baju Kaos Hitam",
+      "ratings": 6,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 17,
+      "name": "Baju Voluonter",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 18,
+      "name": "Baju Sutra",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+
+    {
+      "id": 19,
+      "name": "Kemeja Lengan Pendek",
+      "ratings": 5,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 20,
+      "name": "Kaos oblong",
+      "ratings": 8,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 21,
+      "name": "Kaos Katun",
+      "ratings": 4,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    },
+    {
+      "id": 22,
+      "name": "Baju Kemeja",
+      "ratings": 9,
+      "harga": 17.0,
+      "jenis": "Pakaian",
+      "link": "https://wwd.com/wp-content/uploads/2021/03/AdobeStock_268451625.jpeg?w=447&h=290&crop=1"
+    }
+  ]
+}
