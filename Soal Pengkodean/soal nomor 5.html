@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Mencari Jumlah Tiap Huruf Yang muncul
+    </h1> <hr>
+    
+    <script>
+function countString(str, letter) {
+    let count = 0;
+
+    for (let i = 0; i < str.length; i++) {
+
+
+        if (str.charAt(i) == letter) {
+            count += 1;
+        }
+    }
+    return count;
+}
+
+const string = "aaabbcccaaaac";
+
+const a = "a";
+const b = "b";
+const c = "c";
+const result_a = countString(string, a);
+const result_b = countString(string, b);
+const result_c = countString(string, b);
+
+var item=
+[
+{
+    hasil_a : result_a,
+hasil_b : result_b,
+hasil_c : result_c
+
+}]    
+
+        for(let i = 0; i < item.length; i++){
+            document.write(`<h3>${"a= " + item[0].hasil_a }</h3>`);
+            document.write(`<h3>${"b= " + item[0].hasil_b }</h3>`);
+            document.write(`<h3>${"c= " +  item[0].hasil_c }</h3><br/>`);
+        }
+    </script>
+</body>
+</html>
+<style>
+
+</style>

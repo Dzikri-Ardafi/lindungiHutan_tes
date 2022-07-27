@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Deret fibonacci</h1>
+<hr>
+    <script>
+       function fibonacci(num) {
+    if(num < 2) {
+        return num;
+    }
+    else {
+        return fibonacci(num-1) + fibonacci(num - 2);
+    }
+}
+
+//set
+const nTerms = 12;
+
+if(nTerms <=0) {
+    document.write('Enter a positive integer.');
+}
+else {
+    for(let i = 1; i < nTerms; i++) {
+        document.write (`<div class="fib">${`<h4> ${" " + fibonacci(i)} </h4>`}</div>  `);
+    }
+}
+    </script>
+</body>
+</html>
+<style>
+    .fib{
+        display: flex;
+    }
+</style>

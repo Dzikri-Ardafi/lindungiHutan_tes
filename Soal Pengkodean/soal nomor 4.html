@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Menampilkan Kalimat Sesuai Format</h1><hr>
+
+<h3 id="output"></h3>
+    <div >
+        <h3 id="judul">
+            
+        </h3>
+        <h3 id="lainnya">
+            
+        </h3>
+    </div>
+    <script type="text/javascript">
+        function ucwords(str) {
+            
+           var splitStr = str.toLowerCase().split(' ');
+           for (var i = 0; i < splitStr.length; i++) {
+               
+               splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);     
+           }
+            
+           return splitStr.join(' '); 
+        }
+        var text = "SeLamAT PAGi semua halOo"
+        document.getElementById("judul").innerHTML = "Format Judul : " + ucwords(this.text)
+         let new_input =  ucwords(this.text)
+         let besar = text.slice(0,1).toUpperCase();
+         let kecil = text.slice(1).toLowerCase()
+         document.getElementById("lainnya").innerHTML ="Format Biasa : " + besar + kecil
+         console.log(besar + kecil)
+
+
+    
+        </script>
+</body>
+</html>
