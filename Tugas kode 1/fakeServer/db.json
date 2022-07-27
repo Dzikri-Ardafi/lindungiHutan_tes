@@ -1,0 +1,226 @@
+{
+  "artis": [
+    {
+      "id": 1,
+      "kd_artis": "A001",
+      "nm_artis": "ROBERT DOWNEY JR",
+      "jk": "PRIA",
+      "bayaran": "00000000",
+      "award": 2,
+      "negara": "Amerika Serikat",
+      "negara_path": "https://th.bing.com/th/id/OIP.BRA_HFWgCsUQB56WxwuVrwHaEm?pid=ImgDet&rs=1",
+      "img_path": "https://cbsnews1.cbsistatic.com/hub/i/2017/06/29/fe40ccf2-90d6-4b24-92bf-b8795d04c2c2/gettyimages-803015182.jpg",
+      "artis": [
+        {
+          "kd_film": "F001",
+          "nm_film": "IRON MAN ",
+          "genre": "G001",
+          "artis": "A001",
+          "produser": "PD01",
+          "pendapatan": 2000000000,
+          "nominasi": 3
+        },
+        {
+          "kd_film": "F002",
+          "nm_film": "IRON MAN 2",
+          "genre": "G001",
+          "artis": "A001",
+          "produser": "PD01",
+          "pendapatan": 1800000000,
+          "nominasi": 2
+        },
+        {
+          "kd_film": "F003",
+          "nm_film": "IRON MAN 3",
+          "genre": "G001",
+          "artis": "A001",
+          "produser": "PD01",
+          "pendapatan": 1200000000,
+          "nominasi": 0
+        },
+        {
+          "kd_film": "F004",
+          "nm_film": "AVENGER CIVIL WAR",
+          "genre": "G001",
+          "artis": "A001",
+          "produser": "PD01",
+          "pendapatan": 2000000000,
+          "nominasi": 1
+        },
+        {
+          "kd_film": "F005",
+          "nm_film": "SPIDERMAN HOME COMING",
+          "genre": "G001",
+          "artis": "A001",
+          "produser": "PD01",
+          "pendapatan": 1300000000,
+          "nominasi": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "kd_artis": "A002",
+      "nm_artis": "AGELINA JOLIE",
+      "jk": "WANITA",
+      "bayaran": 70000000,
+      "award": 1,
+      "negara": "Amerika Serikat",
+      "negara_path": "https://th.bing.com/th/id/OIP.BRA_HFWgCsUQB56WxwuVrwHaEm?pid=ImgDet&rs=1",
+      "img_path": "https://th.bing.com/th/id/OIP.IlyV-6GhYvz3P0yBqIrAAQHaLb?pid=ImgDet&rs=1",
+      "artis": [
+        {
+          "kd_film": "lorem",
+          "nm_film": "Lorem Ipsum",
+          "genre": "lorem ipsum sar",
+          "artis": "lorem",
+          "produser": "lorem",
+          "pendapatan": 1300000000,
+          "nominasi": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "kd_artis": "A003",
+      "nm_artis": "JACKIE CHAN",
+      "jk": "PRIA",
+      "bayaran": 20000000,
+      "award": 7,
+      "negara": "Hongkong",
+      "negara_path": "https://th.bing.com/th/id/R.97cebc0feb5b27b4f5a087a3492390d4?rik=oaE6z7s6CrkmqA&riu=http%3a%2f%2fwww.securitiesdocket.com%2fwp-content%2fuploads%2f2009%2f08%2fflag_hongkong.jpg&ehk=mXaexhamfutplI2HujzpVpLRLKGirD6%2fDnCExdC7nYM%3d&risl=&pid=ImgRaw&r=0",
+      "img_path": "https://www.biography.com/.image/t_share/MTc5OTk1MzU0Nzk4NzYxMDgy/gettyimages-858141682.jpg",
+      "artis": [
+        {
+          "kd_film": "lorem",
+          "nm_film": "Lorem Ipsum",
+          "genre": "lorem ipsum sar",
+          "artis": "lorem",
+          "produser": "lorem",
+          "pendapatan": 1300000000,
+          "nominasi": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "kd_artis": "A004",
+      "nm_artis": "JOE TASLIM",
+      "jk": "PRIA",
+      "bayaran": 35000000,
+      "award": 1,
+      "negara": "Indonesia",
+      "negara_path": "https://banner2.cleanpng.com/20180715/zzx/kisspng-flag-of-indonesia-national-monument-proclamation-o-emoji-bendera-indonesia-5b4b3ce994b925.9025419215316574496092.jpg",
+      "img_path": "https://th.bing.com/th/id/OIP.jCfYnqAU8kqNxIM6bdRMGQHaJ4?pid=ImgDet&rs=1",
+      "artis": [
+        {
+          "kd_film": "F006",
+          "nm_film": "THE RAID",
+          "genre": "G001",
+          "artis": "A004",
+          "produser": "PD03",
+          "pendapatan": 800000000,
+          "nominasi": 5
+        },
+        {
+          "kd_film": "lorem",
+          "nm_film": "Lorem Ipsum",
+          "genre": "lorem ipsum sar",
+          "artis": "lorem",
+          "produser": "lorem",
+          "pendapatan": 1300000000,
+          "nominasi": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "kd_artis": "A005",
+      "nm_artis": "CHELSEA ISLAN",
+      "jk": "WANITA",
+      "bayaran": 30000000,
+      "award": 0,
+      "negara": "Indonesia",
+      "negara_path": "https://banner2.cleanpng.com/20180715/zzx/kisspng-flag-of-indonesia-national-monument-proclamation-o-emoji-bendera-indonesia-5b4b3ce994b925.9025419215316574496092.jpg",
+      "img_path": "https://m.media-amazon.com/images/M/MV5BODM1ZjU4NzgtZGQ3NC00MDY4LTkwNTctNGE2N2I2MGQ3Y2Y3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
+      "artis": [
+        {
+          "kd_film": "lorem",
+          "nm_film": "Lorem Ipsum",
+          "genre": "lorem ipsum sar",
+          "artis": "lorem",
+          "produser": "lorem",
+          "pendapatan": 1300000000,
+          "nominasi": 0
+        },
+        {
+          "kd_film": "lorem",
+          "nm_film": "Lorem Ipsum",
+          "genre": "lorem ipsum sar",
+          "artis": "lorem",
+          "produser": "lorem",
+          "pendapatan": 1300000000,
+          "nominasi": 0
+        }
+      ]
+    }
+  ],
+
+  "film": [
+    {
+      "kd_film": "F001",
+      "nm_film": "IRON MAN ",
+      "genre": "G001",
+      "artis": "A001",
+      "produser": "PD01",
+      "pendapatan": 2000000000,
+      "nominasi": 3
+    },
+    {
+      "kd_film": "F002",
+      "nm_film": "IRON MAN 2",
+      "genre": "G001",
+      "artis": "A001",
+      "produser": "PD01",
+      "pendapatan": 1800000000,
+      "nominasi": 2
+    },
+    {
+      "kd_film": "F003",
+      "nm_film": "IRON MAN 3",
+      "genre": "G001",
+      "artis": "A001",
+      "produser": "PD01",
+      "pendapatan": 1200000000,
+      "nominasi": 0
+    },
+    {
+      "kd_film": "F004",
+      "nm_film": "AVENGER CIVIL WAR",
+      "genre": "G001",
+      "artis": "A001",
+      "produser": "PD01",
+      "pendapatan": 2000000000,
+      "nominasi": 1
+    },
+    {
+      "kd_film": "F005",
+      "nm_film": "SPIDERMAN HOME COMING",
+      "genre": "G001",
+      "artis": "A001",
+      "produser": "PD01",
+      "pendapatan": 1300000000,
+      "nominasi": 0
+    },
+    {
+      "kd_film": "F006",
+      "nm_film": "THE RAID",
+      "genre": "G001",
+      "artis": "A004",
+      "produser": "PD03",
+      "pendapatan": 800000000,
+      "nominasi": 5
+    }
+  ],
+  "artis_film": []
+}
