@@ -1,0 +1,57 @@
+#### 1. <br> 
+- Constructor adalah blok kode yang memungkinkan Anda untuk membuat sebuah objek dari kelas.
+Ini juga bisa disebut menciptakan sebuah instance. 
+Constructor terlihat seperti metode tapi bukan, misalnya metode dapat memiliki nilai kembali (return)atau tidak (dianggap sebagai void)
+Jenis Constructor ada tiga jenis Constructor : 
+
+1. default
+2. no- arg 
+3. parameterised
+
+* Class adalah template untuk membuat object. Satu class mempunyai satu atau lebih properti atau fungsi. Satu class dapat menghasilkan banyak object. <br>
+
+* Variabel adalah sebuah nama yang mewakili sebuah nilai. Variabel bisa diisi dengan berbagai macam nilai seperti string (teks), number (angka), objek, array, dan sebagainya. <br>
+
+* Function pada JavaScript adalah first class object, yang berarti dapat diassign terhadap variable. Ada dua cara membuat function pada JavaScript
+
+* procedure adalah rangkaian urutan tindakan yang memiliki satu tujuan.
+
+### 2.
+//Pengertian OOP
+* Pemrograman berorientasi objek atau Object Oriented Programming atau OOP adalah jenis pemrograman komputer di mana programmer mendefinisikan tipe data dari struktur data, dan juga jenis operasi (fungsi) yang dapat diterapkan pada struktur data.
+<br>
+
+<br>
+//KELEBIHAN OPP 
+
+* Membangun program pada modul kerja yang memungkinkan berkomunikasi satu sama lain. Fungsi ini lebih baik daripada harus mulai dari 0, dengan begitu dapat menghemat waktu pengembangan sehingga produktivitas akan lebih baik.
+* Bahasa OOP (Object Oriented Programming) memungkinkan kamu memecah program menjadi program berukuran bit yang dapat diselesaikan dengan mudah.
+* Dengan kualitas perangkat yang lebih baik produktivitas divisi pengembang akan lebih meningkat dari sebelumnya.
+
+//BAHASA YANG BISA MENGGUNAKAN OOP
+
+1. Java
+2. Python
+3. c++
+4. c#
+5. Ruby
+<br>
+
+
+### 3.
+<p> Framework digunakan agar suatu bahasa pemrograman dapat dijalan ataupun di program dengan lebih simple. Untuk fungsi dari Framework menurut saya adalah 
+
+1. mempercepat proses pembuatan aplikasi baik itu aplikasi berbasis desktop, mobile ataupun web Aplikasi yang dihasilkan menjadi lebih stabil dan handal, hal ini dikarenakan 
+2. Framework sudah melalui proses uji baik itu stabilitas dan juga kehandalannya.
+
+### 4.
+
+<p> Untuk method post digunakan untuk memasukkan data ke dalam database API sesuai dengan payload yang telah dibuat oleh Backend, dan untuk get digunakan untuk mengambil data yang ada pada database yang nanti nya akan di tampilkan pada halaman web.</p>
+
+* <p>Cara melakukan kedua method tersebut biasanya saya menggunakan axios untuk melakukan fetching data api. Cara melakukan get yaitu menggunakan perintah .get("link api") dan respon dari get nanti dapat dimasukkan ke dalam variabel.>]<p>
+* <p>Cara melakukan post adalah menggunakan sistem v-model yang digunakan untuk membuat antara input dan output menjadi sinkron. Kemudian untuk mengirim data dapat menggunakan perintah .post("url link", {"payload v-model sesuai BE"})<p>
+
+### 5.
+* konsep dari Web service adalah aplikasi yang tersedia melalui jaringan internet yang terdiri dari kumpulan protokol dan standard terbuka yang dirancang memiliki sistem pertukaran pesan/informasi berbasis XML untuk bertukar data antar perangkat ke perangkat dalam format klien-server.
+
+* untuk mendapatkann web service client dapat menggunakan cara fetch. Yang sering digunakan pada method fetch adalah method get, post, delete, put
